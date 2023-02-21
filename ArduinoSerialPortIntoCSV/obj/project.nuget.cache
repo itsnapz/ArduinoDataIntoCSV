@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1rO596AWZxk9t9rCorSmzSv5ImPk6RzWBkT8/nuky1zTapTHOAXdmRfvMvJbdaNnEalnfzidzGM8jacTmsYnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mnovo\\source\\repos\\ArduinoSerialPortIntoCSV\\ArduinoSerialPortIntoCSV\\ArduinoSerialPortIntoCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\mnovo\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
